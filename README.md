@@ -1,2 +1,2 @@
-# upi-financial-inclusion
- Does UPI adoption reach underbanked districts? An analysis of India's digital payments data
+Is UPI adoption reaching India's underbanked districts, or concentrating where banking access already existed?"
+(Association, not causation — limitation stated explicitly.)
