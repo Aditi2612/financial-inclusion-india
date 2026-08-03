@@ -11,4 +11,4 @@ Covers: Year, State, District, Population Group (Rural/Urban), Bank Group, Occup
 In progress — data sourced, analysis underway
 
 ## Tools
-Python (Pandas) · SQL · Databricks · Power BI
+Python (Pandas) · Matplotlib · Power BI
