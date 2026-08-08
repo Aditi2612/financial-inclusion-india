@@ -22,7 +22,7 @@ Is banking actually reaching rural India, or are the accounts just there to rece
 **Conclusion:** Rural India is financially included on paper, but on the receiving end — accounts arrived through government schemes like Jan Dhan and DBT, but credit access did not follow.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools
 Python (Pandas) · Matplotlib · Power BI · SQL
